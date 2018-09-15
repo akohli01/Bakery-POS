@@ -27,8 +27,15 @@ The OrderDatabase package is currently empty but will be used hold java files ne
 
 Contributing
 
-Currently no one.
+Currently just me.
 
 License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+
+About me:
+
+My name is Amit Kohli, and I am currently a student at Western Governor's University. I am pursuing a Bachelor's in Science in Software Development. This is one of my earliest Java desktop applications, and I welcome any feedback about any modifications that can be done to optimize this application.
+
+Contact:
+
+amitkohli.official@gmail.com

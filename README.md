@@ -19,10 +19,10 @@ If you would like to modify the source files, the project structure is as follow
 
 The src directory contains all the java packages mentioned below.
 
-The OrderItems package contains a java file for each edible item offered by this bakery. More edible items can be added to this package.
-The OrderMain package contains a java file named OrderStart.java which is responsible for creating the initial GUI.
-The OrderProcessor package contains a java file named OrderCalculator.java which is responsible for calculating the necessary costs for an order.
-The OrderDatabase package is currently empty but will be used hold java files needed to establish connectivity with a database and perform necessary SQL commands.
+The OrderItems package contains a java file for each edible item offered by this bakery. More edible items can be added to this package.   
+The OrderMain package contains a java file named OrderStart.java which is responsible for creating the initial GUI.   
+The OrderProcessor package contains a java file named OrderCalculator.java which is responsible for calculating the necessary costs for an order.   
+The OrderDatabase package is currently empty but will be used hold java files needed to establish connectivity with a database and perform necessary SQL commands.   
 
 **Contributing**
 

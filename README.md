@@ -1,12 +1,14 @@
-Project Title
+Manhattan's Finest Bakery
 
-One Paragraph of project description goes here
+This is a bakery ordering software for a superficial bakery named Manhattan's Finest Bakery. This application is written in Java. This application allows the user to select bagels, muffins, cakes, or drinks for purchase.
+
 Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
 Prerequisites
 
-What things you need to install the software and how to install them
+An Integrated Development Environment (Preferably Intellij IDEA).
 
 Give examples
 

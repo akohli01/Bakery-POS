@@ -30,7 +30,7 @@ Currently just me.
 
 **License**
 
-Currently pending
+Standard Github license. Feel free to view and fork this project for personal use.
 
 **About Me**
 

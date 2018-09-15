@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 **Prerequisites**
 
-Java SDK (At least version SE 8)_
+Java SDK (At least version SE 8)    
 An Integrated Development Environment (Preferably Intellij IDEA - which was used to develop this software).
 
 **Testing**

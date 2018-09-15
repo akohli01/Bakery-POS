@@ -8,46 +8,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 Prerequisites
 
-An Integrated Development Environment (Preferably Intellij IDEA).
+An Integrated Development Environment (Preferably Intellij IDEA - which was used to develop this software).
+Java SDK (At least version SE 8)
 
-Give examples
+Testing
 
-Installing
+This project includes a runnable jar file that can be used to quickly run the application. The location of this jar file is in out/artifacts/Manhattan's Finest Bakery.jar
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-Give the example
-
-And repeat
-
-until finished
-
-End with an example of getting some data out of the system or using it for a little demo
-Running the tests
-
-Explain how to run the automated tests for this system
-Break down into end to end tests
-
-Explain what these tests test and why
-
-Give an example
-
-And coding style tests
-
-Explain what these tests test and why
-
-Give an example
-
-Deployment
-
-Add additional notes about how to deploy this on a live system
-Built With
-
-    Dropwizard - The web framework used
-    Maven - Dependency Management
-    ROME - Used to generate RSS Feeds
 
 Contributing
 

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Manhattan's Finest Bakery:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Manhattan_s_Finest_Bakery_jar</output-path>
+    <root id="archive" name="Manhattan's Finest Bakery.jar">
+      <element id="module-output" name="Manhattan's Finest Bakery" />
+      <element id="library" level="project" name="Manhattan's Finest Bakery" />
+    </root>
+  </artifact>
+</component>

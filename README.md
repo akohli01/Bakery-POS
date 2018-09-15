@@ -1,6 +1,6 @@
 Manhattan's Finest Bakery
 
-This is a bakery ordering software for a superficial bakery named Manhattan's Finest Bakery. This application is written in Java. This application allows the user to select bagels, muffins, cakes, or drinks for purchase.
+This is a bakery ordering software for a superficial bakery named Manhattan's Finest Bakery. This application is written in Java and uses the old Java GUI Framework: Swing. This application allows the user to select bagels, muffins, cakes, or drinks for purchase.
 
 Getting Started
 
@@ -8,30 +8,27 @@ These instructions will get you a copy of the project up and running on your loc
 
 Prerequisites
 
-An Integrated Development Environment (Preferably Intellij IDEA - which was used to develop this software).
 Java SDK (At least version SE 8)
+An Integrated Development Environment (Preferably Intellij IDEA - which was used to develop this software).
+
 
 Testing
 
-This project includes a runnable jar file that can be used to quickly run the application. The location of this jar file is in out/artifacts/Manhattan's Finest Bakery.jar
+This project includes a runnable jar file that can be used to quickly run the current state of the application. The location of this jar file is in out/artifacts/Manhattan_s_Finest_Bakery_jar/Manhattan's Finest Bakery.jar
 
+If you would like to modify the source files, the project structure is as follows...
+
+The src directory contains all the java packages mentioned below.
+
+The OrderItems package contains a java file for each edible item offered by this bakery. More edible items can be added to this package.
+The OrderMain package contains a java file named OrderStart.java which is responsible for creating the initial GUI.
+The OrderProcessor package contains a java file named OrderCalculator.java which is responsible for calculating the necessary costs for an order.
+The OrderDatabase package is currently empty but will be used hold java files needed to establish connectivity with a database and perform necessary SQL commands.
 
 Contributing
 
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-Versioning
+Currently no one.
 
-We use SemVer for versioning. For the versions available, see the tags on this repository.
-Authors
-
-    Billie Thompson - Initial work - PurpleBooth
-
-See also the list of contributors who participated in this project.
 License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
-Acknowledgments
-
-    Hat tip to anyone whose code was used
-    Inspiration
-    etc
